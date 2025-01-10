@@ -1,5 +1,5 @@
 /node_modules
-/public
+/public/nocommit
 
 /.next
 .DS_Store
